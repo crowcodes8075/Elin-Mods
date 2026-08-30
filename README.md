@@ -1,10 +1,8 @@
 Some of my mods are from other people's work but I added a tweak/patched a game breaking code on all of the mods (technically, why would I host the mod here if it's 1:1 with the workshop).
 
-None of the mods are 100% taken from the steam workshop.
-
 If you see your mod here, let me know and I will take it down, all of it are Coding and none are Art Assets.
 
-I will attribute all of the Mods I used as a reference point:
+I will attribute all of the Mods I used as a reference:
 
 AutoFarm Improvements:
 https://steamcommunity.com/sharedfiles/filedetails/?id=3740724247
