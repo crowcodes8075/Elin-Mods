@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>Dismantle Tweaks</title>
+  <id>DismantleTweaks</id>
+  <author>you</author>
+  <version>1.0.0</version>
+  <description>Lossless dismantling (full materials back) and always learn recipes when dismantling (if skill condition met).</description>
+</Meta>

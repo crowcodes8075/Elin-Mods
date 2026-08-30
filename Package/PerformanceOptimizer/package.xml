@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>Performance Optimizer</title>
+  <id>PerformanceOptimizer</id>
+  <author>you</author>
+  <version>1.3.0</version>
+  <description>Deep instrumentation, JIT pre-warming, and in-area stutter reduction for Elin.</description>
+</Meta>

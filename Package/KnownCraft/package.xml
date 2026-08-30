@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+	<title>Known Craft</title>
+	<id>KnownCraft</id>
+	<author>you</author>
+	<version>1.0.0</version>
+	<description>Unlocks all production recipes immediately so every machine's "Known Productions" list shows everything without crafting each one first.</description>
+</Meta>
