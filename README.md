@@ -1,4 +1,4 @@
-Some of my mods are from other people's work but I added a tweak/patched a game breaking code on all of the mods (technically, why would I host the mod here if it's 1:1 with the workshop).
+Some of my mods are from other people's work but I added a tweak/patched a game breaking code on all of the mods (technically, there's no point in hosting the mod if it's 1:1 with the workshop).
 
 If you see your mod here, let me know and I will take it down, all of it are Coding and none are Art Assets.
 
