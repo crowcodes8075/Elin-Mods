@@ -2,7 +2,7 @@ Some of my mods are from other people's work but I added a tweak/patched a game 
 
 If you see your mod here, let me know and I will take it down, all of it are Coding and none are Art Assets.
 
-I will attribute all of the Mods I used as a reference:
+I will attribute all of the Mods I used as a reference or starting point:
 
 AutoFarm Improvements:
 https://steamcommunity.com/sharedfiles/filedetails/?id=3740724247
