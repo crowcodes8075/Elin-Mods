@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>Shop Restock</title>
+  <id>ShopRestock</id>
+  <author>you</author>
+  <version>1.0.0</version>
+  <description>Adds a "Restock" option to the context menu for any merchant NPC. Restocks their wares instantly.</description>
+</Meta>
