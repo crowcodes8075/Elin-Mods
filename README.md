@@ -8,6 +8,8 @@ AutoFarm Improvements:
 https://steamcommunity.com/sharedfiles/filedetails/?id=3740724247
 (Added auto fertilize when planting crops, and auto waters it)
 
+Better Breeding: https://steamcommunity.com/sharedfiles/filedetails/?id=3372651456 (added eggs, meat, fertilized eggs multi, as well as milk, and added a auto shear functionality with a multi to increase how much fur is added to the livestock, and make it compatible with autofarm improvements)
+
 Always Learn Recipe on Dismantle
 https://steamcommunity.com/sharedfiles/filedetails/?id=3728424628
 (Combined this mod and Lossless Dismantling) (I technically added a dismantle version of you get everything from the item, example, an item that is dismantled that is crafted by a plank and a nail, when you dismantle it, it's just a plank, I added a patch that you also get a nail but I got bogged down updating it because Multipliers mess with it so I removed it)
