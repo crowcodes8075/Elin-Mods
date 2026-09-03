@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>Custom Class</title>
+  <id>CustomClass</id>
+  <author>you</author>
+  <version>1.0.0</version>
+  <description>Adds one configurable class. Edit values in the BepInEx config file or ModConfigGUI. Defaults match the Almighty class.</description>
+</Meta>
