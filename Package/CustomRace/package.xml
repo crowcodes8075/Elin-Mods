@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>Custom Race</title>
+  <id>CustomRace</id>
+  <author>you</author>
+  <version>1.0.0</version>
+  <description>Adds one configurable race. Edit values in the BepInEx config file or ModConfigGUI. Defaults match the Demigod race.</description>
+</Meta>
