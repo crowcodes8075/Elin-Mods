@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Meta>
-  <title>Custom Alias</title>
-  <id>CustomAlias</id>
-  <author>you</author>
-  <version>1.0.0</version>
-  <description>Lets you type a deterministic alias in the character creation alias field.</description>
-</Meta>
